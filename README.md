@@ -1,4 +1,6 @@
-<h1 align="center">Olá <img width="35" alt="image" src="https://github.com/user-attachments/assets/74c7d3e5-f7c5-4588-808d-26b1ac332881"/> Eu sou o Rodrigo Carvalho</h1>
+<h1 align="center">
+  <img height="50" alt="image" src="https://github.com/user-attachments/assets/c3ed786b-de53-49e3-a3f9-2eb954096c85"/>Olá<img width="35" alt="image" src="https://github.com/user-attachments/assets/74c7d3e5-f7c5-4588-808d-26b1ac332881"/> Eu sou o Rodrigo Carvalho<img height="50" alt="image" src="https://github.com/user-attachments/assets/c3ed786b-de53-49e3-a3f9-2eb954096c85"/>
+</h1>
 
 <p align="center">
 <img width="20" alt="image" src="https://github.com/user-attachments/assets/8595aaef-9262-476c-ac99-04a41cf4abb6"/> Futuro Desenvolvedor Front-End
