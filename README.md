@@ -39,8 +39,10 @@ Porem posteriormente quero focar em Front-End.
 🔹Easy Shopping: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevRodrigoCarvalho&color=blue&style=for-the-badge"/>
+  <br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
