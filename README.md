@@ -1,28 +1,27 @@
-<h1 align="center">Olá 👋 Eu sou o Rodrigo Carvalho</h1>
+<h1 align="center">Olá <img width="35" alt="image" src="https://github.com/user-attachments/assets/74c7d3e5-f7c5-4588-808d-26b1ac332881"/> Eu sou o Rodrigo Carvalho</h1>
 
 <p align="center">
-💻 Futuro Desenvolvedor Front-End<br>
-🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
-📍 São Paulo-SP
+<img width="20" alt="image" src="https://github.com/user-attachments/assets/8595aaef-9262-476c-ac99-04a41cf4abb6"/> Futuro Desenvolvedor Front-End
+<br/>
+<img width="20" alt="image" src="https://github.com/user-attachments/assets/9ab0fe4e-306d-4c79-9e3f-f9872daa3879"/> Formado em Análise e Desenvolvimento de Sistemas
+<br/>
+<img width="15" alt="image" src="https://github.com/user-attachments/assets/7937abb4-5f37-4ab1-aedb-e41d19ca775c"/>São Paulo-SP
 </p>
 
 ---
-
-## 🚀 Tecnologias que uso
+## <img height="35" alt="image" src="https://github.com/user-attachments/assets/038467b4-1f28-445a-877b-48aa414bfb05"/> Tecnologias que uso
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,git,github"/>
 </p>
 
 ---
-
-## 📊 Estatísticas do GitHub
+## <img width="35" alt="image" src="https://github.com/user-attachments/assets/4ff75af9-961f-4d80-ad8f-a878aa4428c5"/> Estatísticas do GitHub
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DevRodrigoCarvalho&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
-
-## 🧠 Atualmente estudando
+## <img width="30" alt="image" src="https://github.com/user-attachments/assets/321dff9a-31e5-4013-bf43-63990ff8469b"/>Atualmente estudando
 Atualmente sou aluno da **DevClub**, onde estou participando da formação **DevClub Full Stack Pro**.
 Durante a formação estou aprofundando conhecimentos em desenvolvimento **Full Stack**, trabalhando com tecnologias modernas como:
 
@@ -30,20 +29,16 @@ Durante a formação estou aprofundando conhecimentos em desenvolvimento **Full 
 - CSS3
 - Git e GitHub
 - JavaScript
-- React
-- Node.js
 
 Porem posteriormente quero focar em Front-End.
 
 ---
-
-## 📂 Projetos em destaque
+## <img width="35" alt="image" src="https://github.com/user-attachments/assets/3a3e5f67-36af-498b-a292-89bbfc910512"/>Projetos em destaque
 🔹WE CARE: https://devrodrigocarvalho.github.io/devclub-primeiro-projeto/
 <br/>
 🔹Easy Shopping: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevRodrigoCarvalho&color=blue&style=for-the-badge"/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -51,7 +46,7 @@ Porem posteriormente quero focar em Front-End.
 
 ---
 
-## 🌎 Onde me encontrar
+## <img width="25" alt="image" src="https://github.com/user-attachments/assets/7d702ca5-2f23-4e5b-8df2-ce0a7a542c62"/> Onde me encontrar
 
 <div align="center">
   <a href="https://www.instagram.com/dev_rodrigocarvalho/">
