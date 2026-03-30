@@ -16,11 +16,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRodrigoCarvalho&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=DevRodrigoCarvalho&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
@@ -30,17 +28,19 @@ Durante a formação estou aprofundando conhecimentos em desenvolvimento **Full 
 
 - HTML5
 - CSS3
+- Git e GitHub
 - JavaScript
 - React
 - Node.js
-- Git e GitHub
 
 Porem posteriormente quero focar em Front-End.
 
 ---
 
 ## 📂 Projetos em destaque
-🔹 Em desenvolvimento
+🔹WE CARE: https://devrodrigocarvalho.github.io/devclub-primeiro-projeto/
+<br/>
+🔹Easy Shopping: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
 
 ---
 
@@ -52,14 +52,15 @@ Porem posteriormente quero focar em Front-End.
 ---
 
 ## 🌎 Onde me encontrar
-<p align="center">
+
+<div align="center">
   <a href="https://www.instagram.com/dev_rodrigocarvalho/">
-  <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram"/>
+    <img width="40" alt="image" src="https://github.com/user-attachments/assets/668d5147-504f-4cdc-8d8b-696dcd96ef6a" />
   </a>
   <a href="https://www.linkedin.com/in/rodrigoccarvalho1204/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/>
+    <img width="40" alt="image" src="https://github.com/user-attachments/assets/ef9b73f5-66b2-4911-ad58-b33f937b61d0"/>
   </a>
   <a href="mailto:dev.rodrigocarvalho@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail"/>
+    <img width="40" alt="image" src="https://github.com/user-attachments/assets/a61acc79-0149-405d-81dc-4055c6391eef"/>
   </a>
-</p>
+</div>
