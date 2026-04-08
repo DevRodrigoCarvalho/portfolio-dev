@@ -45,6 +45,8 @@ Porem posteriormente quero focar em Front-End.
 🔹WE CARE: https://devrodrigocarvalho.github.io/devclub-primeiro-projeto/
 <br/>
 🔹Easy Shopping: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
+<br/>
+🔹Currency Converter: https://devrodrigocarvalho.github.io/devclub-terceiro-projeto/
 
 ---
 
