@@ -42,11 +42,11 @@ Porem posteriormente quero focar em Front-End.
 
 ---
 ## <img width="35" alt="image" src="https://github.com/user-attachments/assets/3a3e5f67-36af-498b-a292-89bbfc910512"/>Projetos em destaque
-🔹WE CARE: https://devrodrigocarvalho.github.io/devclub-primeiro-projeto/
+🔹Currency Converter: https://devrodrigocarvalho.github.io/devclub-terceiro-projeto/
 <br/>
 🔹Easy Shopping: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
 <br/>
-🔹Currency Converter: https://devrodrigocarvalho.github.io/devclub-terceiro-projeto/
+🔹WE CARE: https://devrodrigocarvalho.github.io/devclub-primeiro-projeto/
 
 ---
 
